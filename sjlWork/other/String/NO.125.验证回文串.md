@@ -1,3 +1,6 @@
+[125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+先去除掉不相关字符再验证：
+```cpp
 class Solution {
 public:
     bool isPalindrome(string s) {
@@ -15,3 +18,4 @@ public:
         return true;
     }
 };
+```

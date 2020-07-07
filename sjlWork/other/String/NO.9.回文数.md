@@ -1,3 +1,5 @@
+[9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+```c
 bool isPalindrome(int x){
     if (x<0){
         return false;
@@ -18,3 +20,4 @@ bool isPalindrome(int x){
     return true;
 
 }
+```

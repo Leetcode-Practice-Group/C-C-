@@ -1,3 +1,5 @@
+[14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+```cpp
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
@@ -11,3 +13,4 @@ public:
         return r;
     }
 };
+```

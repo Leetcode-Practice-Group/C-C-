@@ -1,3 +1,6 @@
+[739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+典型单调栈问题，当新温度值大于栈顶时，一直出栈直到栈空或者栈顶大于新的值，然后新的数组下标入栈：
+```cpp
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& T) {
@@ -16,3 +19,4 @@ public:
         return ret;
     }
 };
+```
