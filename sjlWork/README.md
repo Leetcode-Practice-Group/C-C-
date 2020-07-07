@@ -1,6 +1,5 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-部分题目代码
-
+  
 ## 目录
 
 - [目录](#目录)
@@ -27,13 +26,15 @@
   - [0048.旋转图像](./other/array/NO.0048.旋转图像.cpp)
   - [1300.转变数组后最接近目标值的数组和](./other/array/NO.1300.转变数组后最接近目标值的数组和.c)
 
-- [广度优先搜索★★★★](./other/BFS★★★★)
-
 - [位操作★★](./other/bit)
   - [0136.只出现一次的数字](./other/bit/NO.0136.只出现一次的数字.cpp)
 
 - [深度优先搜索★★★★](./other/DFS★★★★)
-  - [0112.路径总和](./other/DFS★★★★/NO.0112.路径总和.cpp)
+  - [0101.对称二叉树](./other/Tree★★★/NO.0101.对称二叉树.md)
+  
+- [广度优先搜索★★★★](./other/BFS★★★★)
+  - [0112.路径总和](./other/Tree★★★/NO.0112.路径总和.md)
+  - [0101.对称二叉树](./other/Tree★★★/NO.0101.对称二叉树.md)
 
 - [动态规划★★★](./other/DP★★★)
   - [0010.正则表达式匹配](./other/DP★★★/NO.0010.正则表达式匹配.cpp)
@@ -107,7 +108,7 @@
   - [C语言树基础](./other/Tree★★★/C语言树基础.md)
   - [0101.对称二叉树](./other/Tree★★★/NO.0101.对称二叉树.md)
   - [0108.将有序数组转换为二叉搜索树](./other/Tree★★★/NO.0108.将有序数组转换为二叉搜索树.cpp)
-  - [0112.路径总和](./other/Tree★★★/NO.0112.路径总和.cpp)
+  - [0112.路径总和](./other/Tree★★★/NO.0112.路径总和.md)
   - [0297.二叉树的序列化与反序列化](./other/Tree★★★/NO.0297.二叉树的序列化与反序列化.cpp)
   - [1028.从先序遍历还原二叉树](./other/Tree★★★/NO.1028.从先序遍历还原二叉树.cpp)
   - [面试题07.重建二叉树](./other/Tree★★★/NO.面试题07.重建二叉树.md)
